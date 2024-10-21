@@ -1,8 +1,8 @@
 
-# s
+# My Test Project 
 
 ## Description
-ss
+This application allows you to quickly create a ReadMe file using the command line
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
@@ -11,15 +11,15 @@ ss
 * [Tests](#tests)
 * [Questions](#questions)
 ## Installation
-s
+To install visit my github and clone the repo, use npm i to ensure you  have all the necessasry packages installed  and then run the application in the console using node
 ## Usage
-ss
+N/A free to use for all
 ## License
-s
+To install visit my github and clone the repo, use npm i to ensure you  have all the necessasry packages installed  and then run the application in the console using node
 ## Contributing 
-s
+Feel free to contribute 
 ## Tests
-s 
+N/A 
 ## Questions
-s
+caljames94@gmail.com
   
